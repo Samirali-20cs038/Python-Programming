@@ -97,22 +97,18 @@ NO
 
 
 # Practical 8:
-Implement following operation on Portable Document Format (PDF)
-1. Extracting text from PDF
-2. Rotating PDF pages
-3. Merging PDFs
-4. Splitting PDF
-5. Adding watermark to PDF pages
-6. Encrypting and decrypting PDF files
+Write a Program in Python to implement a Stack Data Structure 
+using Class and Objects,with push, pop, and traversal method.
 
 
 # Practical 9:
-Creating and sending emails using python
-1. Sending a Plain-Text Email
-2. Sending Fancy Emails
-3. Sending Multiple Personalized Emails
-4. Send HTML Email with Attachment
+Consider an example of declaring the examination result. Design three classes:Student, Exam, and Result. 
+The Student class has data members such as those representing rollNumber, Name, etc. 
+Create the class Exam by inheriting Student class. 
+The Exam class adds fields representing the marks scored in six subjects. 
+Derive Result from the Exam class, and it has its own fields such as total_marks. 
+Write an interactive program to model this relationship. 
 
 
 # Practical 10:
-Implement CRUD operation using Django Framework.
+Generate PDF file of your 3rd Semester Mark-sheet. 
