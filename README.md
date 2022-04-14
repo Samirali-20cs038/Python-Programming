@@ -112,3 +112,6 @@ Write an interactive program to model this relationship.
 
 # Practical 10:
 Generate PDF file of your 3rd Semester Mark-sheet. 
+
+# OpenCV : Image Processing (Blog)
+https://opencv-video-processing.blogspot.com/2022/04/opencv-video-processing.html
